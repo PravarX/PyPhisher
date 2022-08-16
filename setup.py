@@ -11,10 +11,10 @@ setup(
     description='Ultimate phishing tool in python with dual tunneling, 77 templates and many more!',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    author='KasRoudra',
-    author_email='kasroudrakrd@gmail.com',
+    author='PravarNotFound',
+    author_email='PravarX@gmail.com',
     license="GPLv3",
-    url='https://github.com/KasRoudra/PyPhisher/',
+    url='https://github.com/PravarX/PyPhisher/',
     scripts=['pyphisher'],
     install_requires=["requests", "bs4"]
 )
