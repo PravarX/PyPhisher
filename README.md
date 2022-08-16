@@ -163,3 +163,5 @@ Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zp
 
 - [![Gmail](https://img.shields.io/badge/Gmail-PravarX-green?style=for-the-badge&logo=gmail)](mailto:PravarX@gmail.com)
 
+- [![Telegram](https://img.shields.io/badge/Telegram-PravarNotFound-green?style=for-the-badge&logo=telegram)](https://t.me/PravarNotFound)
+
