@@ -159,7 +159,7 @@ Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zp
 
 ## [~] Find Me on :
 
-- [![Github](https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github)](https://github.com/PravarX)
+- [![Github](https://img.shields.io/badge/Github-PravarX-green?style=for-the-badge&logo=github)](https://github.com/PravarX)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:PravarX@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-PravarX-green?style=for-the-badge&logo=gmail)](mailto:PravarX@gmail.com)
 
