@@ -1,5 +1,7 @@
 <h1 align="center">PyPhisher</h1>
 
+[![Telegram](https://img.shields.io/badge/Join-Cyberide-green?style=for-the-badge&logo=telegram)](https://t.me/Cyberide)
+
 <p align="center">
    <img src="[https://img.shields.io/badge/Join-Cyberide-green?style=for-the-badge&logo=telegram](t.me/cyberide)"
   <img src="https://img.shields.io/badge/Version-1.9-green?style=for-the-badge"
