@@ -1,13 +1,9 @@
 <h1 align="center">PyPhisher</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.9-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/KasRoudra/pyphisher?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/KasRoudra/pyphisher?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/watchers/KasRoudra/pyphisher?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/badge/Version-1.9-green?style=for-the-badge"
   <img src="https://img.shields.io/github/issues/KasRoudra/pyphisher?color=red&style=for-the-badge">
   <img src="https://img.shields.io/github/license/KasRoudra/pyphisher?style=for-the-badge&color=blue">
-  <img src="https://hits.dwyl.com/KasRoudra/PyPhisher.svg" width="140" height="28">
 <br>
 <br>
   <img src="https://img.shields.io/badge/Author-KasRoudra-purple?style=flat-square">
