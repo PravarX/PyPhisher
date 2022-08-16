@@ -45,7 +45,7 @@
 
 #### Or, directly run
 ```
-wget https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/pyphisher.py && python3 pyphisher.py
+wget https://raw.githubusercontent.com/PravarX/PyPhisher/main/pyphisher.py && python3 pyphisher.py
 
 ```
 
@@ -56,8 +56,8 @@ wget https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/pyphisher.py && 
 
 ### Docker
 
- - `sudo docker pull kasroudra/pyphisher`
- - `sudo docker run --rm -it kasroudra/pyphisher`
+ - `sudo docker pull PravarX/pyphisher`
+ - `sudo docker run --rm -it PravarX/pyphisher`
 
 #### Options
 
@@ -89,10 +89,6 @@ options:
  - Portable file (Can be run from any directory)
  - Get IP Address and many other details along with login credentials
 
-#### Relevant Tools by Me
- - [CamHacker](https://github.com/KasRoudra/CamHacker) for image phishing
- - [VidPhisher](https://github.com/KasRoudra/VidPhisher) for video phishing
-
 
 ### Requirements
 
@@ -123,7 +119,7 @@ If not found, php and python modoules will be installed on first run
 
 <h1 align="center">Example</h1>
 
-![PyPhisher](https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/files/pyphisher.gif)
+![PyPhisher](https://raw.githubusercontent.com/PravarX/PyPhisher/main/files/pyphisher.gif)
 
 ## Video Tutorial
 <a href="https://rebrand.ly/pyphishervideo">PyPhisher Video</a>
@@ -167,8 +163,4 @@ Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zp
 - [![Github](https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github)](https://github.com/PravarX)
 
 - [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:PravarX@gmail.com)
-
-- [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-green?style=for-the-badge&logo=facebook)](https://facebook.com/PravarX)
-
-- [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-green?style=for-the-badge&logo=messenger)](https://m.me/PravarX)
 
