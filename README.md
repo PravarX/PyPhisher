@@ -1,7 +1,7 @@
 <h1 align="center">PyPhisher</h1>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Join-Cyberide-green?style=for-the-badge&logo=telegram"
+   <img src="[https://img.shields.io/badge/Join-Cyberide-green?style=for-the-badge&logo=telegram](t.me/cyberide)"
   <img src="https://img.shields.io/badge/Version-1.9-green?style=for-the-badge"
   <img src="https://img.shields.io/github/issues/KasRoudra/pyphisher?color=red&style=for-the-badge">
 <br>
