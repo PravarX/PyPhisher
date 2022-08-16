@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.9-green?style=for-the-badge"
   <img src="https://img.shields.io/github/issues/KasRoudra/pyphisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/license/KasRoudra/pyphisher?style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/github/Telegram/KasRoudra/pyphisher?style=for-the-badge&color=blue">
 <br>
 <br>
   <img src="https://img.shields.io/badge/Author-PravarNotFound-purple?style=flat-square">
